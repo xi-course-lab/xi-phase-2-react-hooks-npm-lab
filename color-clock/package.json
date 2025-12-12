@@ -89,7 +89,8 @@
   },
   "devDependencies": {},
   "scripts": {
-  "test": "echo 'Hello World!'"
+  "test": "echo 'Hello World!'",
+  "hello": "aloha"
 },
   "author": "",
   "license": "ISC"
